@@ -7,6 +7,7 @@
 ![Screenshot_20230131_083658](https://user-images.githubusercontent.com/70448538/215845162-869a9afb-d8e0-45f3-bc93-b4b67baf2296.png)
 
 Swipe Delete
+
 ![Screenshot_20230131_083807](https://user-images.githubusercontent.com/70448538/215845174-9ee15097-c37d-4ddb-a579-3aaf7fafbe33.png)
 
 ![Screenshot_20230131_083814](https://user-images.githubusercontent.com/70448538/215845186-e9006598-a0d1-419c-95bd-921ed808286b.png)
